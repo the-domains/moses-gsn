@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-23T07:32:41.369Z'
-dateModified: '2015-10-23T07:32:32.674Z'
+datePublished: '2015-10-23T07:39:00.714Z'
+dateModified: '2015-10-23T07:38:46.427Z'
 title: 'What I am grateful for #4'
+sourcePath: _posts/2015-10-23-what-i-am-grateful-for-4.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-23-what-i-am-grateful-for-4.md
-published: true
 url: what-i-am-grateful-for-4/index.html
 _type: Article
 
@@ -34,3 +34,4 @@ One of the movie that I really enjoyed had this lyric in a beautiful song. Yet I
 Praise be to God above for being my only hope in sustaining true love for my wife until the last breath. For I know that He who is able to love me so deeply even when I am flawed and broken can also teach me how to love other - even my wife - though it all.
 
 This I am grateful for.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeec0f85-3a9f-4e45-a7be-ee2e6554d52f.jpg)
