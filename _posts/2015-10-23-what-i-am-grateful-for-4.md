@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-23T07:39:00.714Z'
-dateModified: '2015-10-23T07:38:46.427Z'
+datePublished: '2015-10-23T07:52:07.096Z'
+dateModified: '2015-10-23T07:49:07.341Z'
 title: 'What I am grateful for #4'
 sourcePath: _posts/2015-10-23-what-i-am-grateful-for-4.md
 published: true
