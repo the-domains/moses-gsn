@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Random Posts of Moses Kim gsn]]></title>
         <description><![CDATA[Random Posts of Moses Kim gsn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moses-gsn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 07:18:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 23 Oct 2015 07:23:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moses-gsn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What I am grateful for #21]]></title>
+            <description><![CDATA[<h1>What I am grateful for #21</h1>]]></description>
+            <link>https://thegrid.ai/moses-gsn/what-i-am-grateful-for-21/index.html</link>
+            <guid isPermaLink="false">8ec08465-6fb9-464c-ba4b-2625e7867b02</guid>
+            <pubDate>Fri, 23 Oct 2015 07:22:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined0e6b73ad-87ab-4247-9b48-7976b3e3b587/index.html</link>
+            <link>https://thegrid.ai/moses-gsn/0e6b73ad-87ab-4247-9b48-7976b3e3b587/index.html</link>
             <guid isPermaLink="false">0e6b73ad-87ab-4247-9b48-7976b3e3b587</guid>
             <pubDate>Fri, 23 Oct 2015 07:18:38 GMT</pubDate>
         </item>
