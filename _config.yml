@@ -1,0 +1,23 @@
+name: Moses Gsn
+favicon: null
+layout_spectrum: 0.3792695675510913
+typography_spectrum: 0.6681579952128232
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9081471471581608
+  lightness: 0.4287979011423886
+  saturation: 0.3261432519648224
+  rhythmicContrast: 0.7535165676381439
+purpose: []
